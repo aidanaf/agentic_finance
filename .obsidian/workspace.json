@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "c5d4246023e0310c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e387b87b392b05a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "998f6422bcb83c31",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e95bff14649f07ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7253b8484979bfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc2eea556a68a264",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "050dc60012fd6cb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d2eeb381ceb7a18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d4afa9d53544170e",
+    "type": "split",
+    "children": [
+      {
+        "id": "91a812e2abd05fe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27d2f563ef13fbaf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "747198330cd7744e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37d07db34ddf8d57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b4b94e583f522d5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "998f6422bcb83c31",
+  "lastOpenFiles": [
+    "feature_engineering/advanced_transforms.py",
+    "feature_engineering",
+    "execute_dash_app.sh",
+    "ETL/__pycache__/fetch_data.cpython-311.pyc",
+    "data_app/callbacks.py",
+    "data_app/app.py",
+    "data_app",
+    "ETL/__pycache__/transform.cpython-311.pyc",
+    "ETL/__pycache__/load.cpython-311.pyc",
+    "ETL/__pycache__/extract.cpython-311.pyc",
+    "ETL/__pycache__/config.cpython-311.pyc",
+    "Project Notes/project_structure.md",
+    "feature_engineering.md",
+    "Project Notes/feature_engineering.md",
+    "venv/lib/python3.11/site-packages/flask/sansio/README.md",
+    "venv/lib/python3.11/site-packages/werkzeug/debug/shared/more.png",
+    "venv/lib/python3.11/site-packages/werkzeug/debug/shared/console.png",
+    "venv/lib/python3.11/site-packages/werkzeug/debug/shared/less.png",
+    "venv/lib/python3.11/site-packages/werkzeug/debug/shared/ICON_LICENSE.md",
+    "venv/lib/python3.11/site-packages/dash_html_components-2.0.0.dist-info/LICENSE.md",
+    "project_structure.md"
+  ]
+}
