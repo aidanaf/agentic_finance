@@ -4,7 +4,7 @@
 
 ### Introduction
 
-The motivation behind this project is to create an AI agent capable of providing analysis on stock data of interest, particularly for those that may have difficulty or lack the required background to do so such as the elderly or children.
+The motivation behind this project is to create an AI agent capable of providing analysis on stock data of interest, particularly for those that may have difficulty or lack the required background to do so.
 
 ### Description
 
